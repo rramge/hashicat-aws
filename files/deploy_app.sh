@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to Ralf's app. Replace this text with your own.
+=======
+  Welcome to Ralf's app. 
+>>>>>>> f5fb022fc392d3bf57db42a20f2046e87061bf43
   <!-- END -->
 
   </div>
